@@ -3,5 +3,5 @@
  cases reported in India and different states of India.
  We can ask for a State's Corona Updates using this bot.
  It provides a full dataset of informations which has been taken from government api.
- Try to implement this in Jupyter-Notebook,PyCharm for better output.
+ Try to implement this in Jupyter-Notebook,PyCharm for better viewing.
  
